@@ -72,6 +72,7 @@ ul {
     font-size: 1em;
     border: none;
     position: relative;
+    cursor: pointer;
 }
 
 li {
